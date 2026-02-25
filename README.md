@@ -1,16 +1,19 @@
-## Hi there 👋
+## hello! i'm caleb !
 
-<!--
-**calebwongg/calebwongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact: calebjew [at] uci [dot] edu | calebwongtech [at] gmail [dot] com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const wong  = {
+  education: "Computer Science & Engineering @ UCI",
+  role: "Full-Stack Developer",
+  languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
+  tools: ["React", "Next.js", "Expo", "Tailwind", "Node", "Docker", "wxt"],
+  music: ["Worship", "R&B", "Jazz"]
+};
+```
+## **Selected Projects**
+
+* AntAlmanac: [[link](https://github.com/skylerkimcodes/rabbitreview)]
+  * AntAlmanac streamlines the registration process by unifying class discovery, interactive campus mapping, and customizable 4-year academic planning into a single open-source platform used by the student body.
+   * AWS, PostgreSQL, React, Next.js, tRPC, TypeScript
