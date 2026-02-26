@@ -14,6 +14,6 @@ const wong  = {
 ```
 ## **Selected Projects**
 
-* AntAlmanac: [[link](https://github.com/skylerkimcodes/rabbitreview)]
+* AntAlmanac: [[link](https://github.com/icssc/AntAlmanac)]
   * AntAlmanac streamlines the registration process by unifying class discovery, interactive campus mapping, and customizable 4-year academic planning into a single open-source platform used by the student body.
    * AWS, PostgreSQL, React, Next.js, tRPC, TypeScript
