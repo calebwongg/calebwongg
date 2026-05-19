@@ -8,7 +8,7 @@ const wong  = {
   education: "Computer Science & Engineering @ UCI",
   role: "Full-Stack Developer",
   languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
-  tools: ["React", "Next.js", "Expo", "Tailwind", "Node", "Docker", "wxt"],
+  tools: ["Docker", "AWS RDS", "PostgreSQL", "Drizzle ORM", "tRPC", "WXT", "gRPC", "Tailwind",],
   music: ["Worship", "R&B", "Jazz"]
 };
 ```
