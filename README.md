@@ -4,7 +4,7 @@ calebjew [at] uci [dot] edu | calebwongtech [at] gmail [dot] com
 
 
 ```javascript
-const wong  = {
+const caleb  = {
   education: "Computer Science & Engineering @ UCI",
   role: "Full-Stack Developer",
   languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
