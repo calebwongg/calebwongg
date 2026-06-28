@@ -9,7 +9,7 @@ const caleb  = {
   role: "Full-Stack Developer",
   languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
   tools: ["Docker", "AWS RDS", "PostgreSQL", "Drizzle ORM", "tRPC", "WXT", "gRPC", "Tailwind"],
-  music: ["Worship", "R&B", "Jazz"]
+  shot-selection: ["Fadeaway", "Mid-Range", "3-Pointer"]
 };
 ```
 ## **Selected Projects**
