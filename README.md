@@ -6,7 +6,7 @@ calebjew [at] uci [dot] edu | calebwongtech [at] gmail [dot] com
 ```javascript
 const caleb  = {
   education: "Computer Science & Engineering @ UCI",
-  role: "Full-Stack Developer",
+  role: "AI Engineer & Full-Stack Developer",
   languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
   tools: ["Docker", "AWS RDS", "PostgreSQL", "Drizzle ORM", "tRPC", "WXT", "gRPC", "Tailwind"],
   shotSelection: ["Fadeaway", "Mid-Range", "3-Pointer"]
