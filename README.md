@@ -9,7 +9,7 @@ const caleb  = {
   role: "AI Engineer & Full-Stack Developer",
   languages: [Typescript, Javascript, Python, Java, C++, HTML, CSS, Swift],
   tools: ["Docker", "AWS RDS", "PostgreSQL", "Drizzle ORM", "tRPC", "WXT", "gRPC", "Tailwind"],
-  shotSelection: ["Fadeaway", "Mid-Range", "3-Pointer"]
+  shotSelection: ["3-Pointer", "Mid-Range", "Hesi-pull"]
 };
 ```
 ## **Selected Projects**
