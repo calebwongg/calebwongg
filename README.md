@@ -1,6 +1,6 @@
 ## hello! i'm caleb !
 
-calebwongtech [at] gmail [dot] com | calebjew [at] uci [dot] edu 
+calebwongtech [at] gmail [dot] com | cajwong [at] uci [dot] edu 
 
 
 ```javascript
