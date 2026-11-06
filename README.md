@@ -14,10 +14,9 @@ const caleb  = {
 ```
 ## **Selected Projects**
 
-* Analect: [[link](https://marketplace.visualstudio.com/items?itemName=analect.analect)]
-  * VS Code extension for semantic code navigation, built to cut down how long it takes engineers to onboard onto unfamiliar codebases. Parses code into ASTs with Tree-sitter across multiple languages.
-  * TypeScript, Tree-sitter, VS Code Extension API
-
-* AntAlmanac: [[link](https://github.com/icssc/AntAlmanac)]
-  * AntAlmanac streamlines the registration process by unifying class discovery, interactive campus mapping, and customizable 4-year academic planning into a single open-source platform used by the student body.
-   * AWS, PostgreSQL, React, Next.js, tRPC, TypeScript
+- **Analect**: [[link](https://marketplace.visualstudio.com/items?itemName=analect.analect)]
+  - VS Code extension for semantic code navigation, built to cut down how long it takes engineers to onboard onto unfamiliar codebases. Parses code into ASTs with Tree-sitter across multiple languages.
+  - TypeScript, Node.js, Tree-sitter
+- **AntAlmanac**: [[link](https://github.com/icssc/AntAlmanac)]
+  - AntAlmanac streamlines the registration process by unifying class discovery, interactive campus mapping, and customizable 4-year academic planning into a single open-source platform used by the student body.
+  - AWS, PostgreSQL, React, Next.js, tRPC, TypeScript
